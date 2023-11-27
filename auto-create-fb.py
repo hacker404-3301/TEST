@@ -115,17 +115,6 @@ def cvt(st,ran):
     return(str(cookie))
 
 #--> Logo
-logo(""
-.s    s.  .s    s.  .s5SSSs.  .s5ssSs.  
-      SS.       SS.       SS.    SS SS. 
-sS    S%S sS    S%S sS    S%S sS SS S%S 
-SS    S%S SS    S%S SS    S%S SS :; S%S 
-SSSs. S%S SSSs. S%S SS .sS::' SS    S%S 
-SS    S%S SS    S%S SS        SS    S%S 
-SS    `:; SS    `:; SS        SS    `:; 
-SS    ;,. SS    ;,. SS        SS    ;,. 
-:;    ;:' :;    ;:' `:        :;    ;:' 
-"")
 
 #--> Main Menu
 class menu:
