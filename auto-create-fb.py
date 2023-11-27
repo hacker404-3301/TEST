@@ -114,8 +114,6 @@ def cvt(st,ran):
     except Exception as e : cookie = '; '.join([str(x)+"="+str(y) for x,y in ran])
     return(str(cookie))
 
-#--> Logo
-
 #--> Main Menu
 class menu:
     def __init__(self):
