@@ -109,9 +109,6 @@ def jalan(z):
         sys.stdout.flush()
         time.sleep(0.01)
 
-#----------------------LOGO----------------------#
-
-
 logo ="""
 \033[1;97m
 .s    s.  .s    s.  .s5SSSs.  .s5ssSs.  
@@ -128,10 +125,10 @@ SS    ;,. SS    ;,. SS        SS    ;,.
 
 ╭──────────•◈•───────────────────╮
 [-] TOOLS TYPE : RANDOM CLONING
-[-] VERSION        : 0.0.2 
-[-] DEVELOPER   : HEART HACKER  
-[-] GITHUB          : hacker404-3301
-[-] FACEBOOK     : Md Abdullah (Heart Hacker)
+[-] VERSION : 0.0.2 
+[-] DEVELOPER : HEART HACKER  
+[-] GITHUB : hacker404-3301
+[-] FACEBOOK : Md Abdullah (Heart Hacker)
 ╰──────────•◈•───────────────────╯  
 \033[93;1mFollow my GitHub  💖
 '\33[1;97mTURN ON & OFF FLIGHT MODE (before use) 
