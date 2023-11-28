@@ -123,19 +123,19 @@ SS    ;,. SS    ;,. SS        SS    ;,.
                           
                           
 
-╭─────💖─────•◈•─────💖─────💖─────💖───╮
+ ╭─────💖─────•◈•─────💖─────💖─────💖───╮
 [-] TOOLS TYPE : RANDOM CLONING
 [-] VERSION : 0.0.2 
 [-] DEVELOPER : HEART HACKER  
 [-] GITHUB : hacker404-3301
 [-] FACEBOOK : Md Abdullah (Heart Hacker)
-╰──────💖────•◈•─────💖─────💖──────💖──╯  
-\033[93;1mFollow my GitHub  💖
+ ╰─────💖─────•◈•─────💖─────💖─────💖───╯  
+\033[93;1mFollow my GitHub and Facebook account 
 '\33[1;97mTURN ON & OFF FLIGHT MODE (before use) 
 \033[1;97m==============================================================="""
 
 
-
+os.system('xdg-open https://github.com/hacker404-3301')
 os.system('xdg-open https://www.facebook.com/profile.php?id=100078990605486')
 def cek_apk(session,coki):
     w=session.get("https://mbasic.facebook.com/settings/apps/tabbed/?tab=active",cookies={"cookie":coki}).text
