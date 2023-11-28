@@ -124,7 +124,7 @@ SS    ;,. SS    ;,. SS        SS    ;,.
                           
 
  ╭─────💖─────•◈•─────💖─────💖─────💖───╮
-[-] TOOLS TYPE : RANDOM CLONING
+[-] TOOLS TYPE : RANDOM CLONE 
 [-] VERSION : 0.0.2 
 [-] DEVELOPER : HEART HACKER  
 [-] GITHUB : hacker404-3301
