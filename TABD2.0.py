@@ -1,4 +1,4 @@
-hmm#----------------------DEVELOPER ONFO---------------------#
+#----------------------DEVELOPER ONFO---------------------#
 
 #Developer : Heart Hacker
 #Facebook : Md Abdullah (Heart Hacker)
