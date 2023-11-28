@@ -1,4 +1,4 @@
-#----------------------DEVELOPER ONFO---------------------#
+hmm#----------------------DEVELOPER ONFO---------------------#
 
 #Developer : Heart Hacker
 #Facebook : Md Abdullah (Heart Hacker)
@@ -123,13 +123,13 @@ SS    ;,. SS    ;,. SS        SS    ;,.
                           
                           
 
-╭──────────•◈•───────────────────╮
+╭─────💖─────•◈•─────💖─────💖─────💖───╮
 [-] TOOLS TYPE : RANDOM CLONING
 [-] VERSION : 0.0.2 
 [-] DEVELOPER : HEART HACKER  
 [-] GITHUB : hacker404-3301
 [-] FACEBOOK : Md Abdullah (Heart Hacker)
-╰──────────•◈•───────────────────╯  
+╰──────💖────•◈•─────💖─────💖──────💖──╯  
 \033[93;1mFollow my GitHub  💖
 '\33[1;97mTURN ON & OFF FLIGHT MODE (before use) 
 \033[1;97m==============================================================="""
@@ -157,7 +157,7 @@ def main():
     print('PAKISTAN Enter Four Digit Code [92301] [92302] [92305] [92306]')
     print('BANGLADESH Enter Four Digit Code [88013] [88017] [88018] [88016]')
     print('INDIA Enter Four Digit Code [918464] [918465] [918406] [917965]')  
-    kode = input('[?] Input Code Pakistan Best: ')
+    kode = input('[?] Input Code: ')
     limit = int(input('How Many Numbers Do You Want To Add? Sample:(5000)(10000)(50000? '))
     for nmbr in range(limit):
 	    nmp = ''.join(random.choice(string.digits) for _ in range(7))
